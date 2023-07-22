@@ -1,5 +1,5 @@
 # MicroserviceDemo
-This is demo project that is aimed to show microservice architecture
+This is .NET Core demo project that is aimed to show microservice architecture
 
 ### Requirments
 
